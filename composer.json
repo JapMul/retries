@@ -1,0 +1,25 @@
+{
+    "name": "JapMul/retries",
+    "type": "library",
+    "description": "A small retry library with the possibility to wait before retrying.",
+    "keywords": ["retry","failure","retries"],
+    "homepage": "http://github.com/JapMul/retries",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jap Mul",
+            "email": "jap@maester.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Retries\\": "src/"
+        }
+    }
+}
