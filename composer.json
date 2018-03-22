@@ -1,5 +1,5 @@
 {
-    "name": "JapMul/retries",
+    "name": "japmul/retries",
     "type": "library",
     "description": "A small retry library with the possibility to wait before retrying.",
     "keywords": ["retry","failure","retries"],
