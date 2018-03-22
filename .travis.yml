@@ -7,4 +7,5 @@ branches:
   only:
     - master
 
+install: composer install
 script: phpunit --coverage-text
