@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/JapMul/retries.svg?branch=master)](https://travis-ci.org/JapMul/retries)
+
 Retries
 ============
 
